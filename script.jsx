@@ -2,6 +2,6 @@ import React from "react";
 import ReactDOM from "react";
 
 ReactDOM.render(
-    <h1>Chuj wam w dupę proszę państwa</h1>,
+    <p>"Chuj wam w dupę proszę państwa"</p>,
     document.getElementById("root")
     );
